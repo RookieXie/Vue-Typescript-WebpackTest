@@ -1,0 +1,22 @@
+{
+  "name": "typescript-vue-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^0.16.2",
+    "css-loader": "^0.28.7",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2",
+    "vue-loader": "^13.0.5",
+    "vue-template-compiler": "^2.2.1",
+    "webpack": "^3.6.0"
+  }
+}
